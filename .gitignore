@@ -1,0 +1,4 @@
+*.DS_Store
+_node_modules/
+node_modules/
+npm-debug.log.a832650d30f5d9bb762a35331b265665

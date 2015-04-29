@@ -1,0 +1,41 @@
+{
+  "name": "nodejs-bwtech",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "MD5": "~1.2.1",
+    "async": "",
+    "body-parser": "~1.6.6",
+    "commander": "",
+    "connect-mongo": "~0.4.1",
+    "cookie-parser": "~1.3.2",
+    "dateformat": "1.0.8",
+    "debug": "~1.0.4",
+    "ejs": "~0.8.5",
+    "express": "~4.8.6",
+    "express-session": "~1.7.5",
+    "jssha": "^1.5.0",
+    "lodash": "~2.4.1",
+    "moment": "^2.9.0",
+    "mongoose": "~3.8.16",
+    "morgan": "~1.2.3",
+    "nconf": "",
+    "node-cache": "~1.0.2",
+    "promptly": "",
+    "require-all": "",
+    "require-all-to-camel": "",
+    "serve-favicon": "~2.0.1",
+    "wechat": "1.2.1",
+    "wechat-api": "1.5.2",
+    "wechat-oauth": "^1.0.0",
+    "winston": ""
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.5.0"
+  }
+}
